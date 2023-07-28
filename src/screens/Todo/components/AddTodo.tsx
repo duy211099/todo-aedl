@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const AddTodo = (props: any) => {
     const { newTodo, setNewTodo, setTodoList, todoList } = props
     
